@@ -46,3 +46,11 @@
 [04May2025 22:42:34.750] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2652 ms
 [04May2025 22:42:34.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.103s)! For help, type "help"
 [04May2025 22:42:34.775] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04May2025 23:04:11.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Batidorapro[/100.64.145.85:64099] logged in with entity id 354 at (79.30202945100879, 30.0, -89.30000001192093)
+[04May2025 23:04:11.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Batidorapro joined the game
+[04May2025 23:04:17.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Batidorapro lost connection: Disconnected
+[04May2025 23:04:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Batidorapro left the game
+[04May2025 23:04:21.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Batidorapro[/100.64.145.85:64105] logged in with entity id 406 at (79.30202945100879, 30.0, -89.30000001192093)
+[04May2025 23:04:21.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Batidorapro joined the game
+[04May2025 23:06:28.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Batidorapro lost connection: Disconnected
+[04May2025 23:06:28.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Batidorapro left the game
