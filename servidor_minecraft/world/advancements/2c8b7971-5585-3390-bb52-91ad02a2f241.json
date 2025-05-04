@@ -1,0 +1,170 @@
+{
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-04 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-05-04 21:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-04 21:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-05-04 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-04 21:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-04 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-04 21:45:54 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-05-04 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-04 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2025-05-04 21:41:54 +0000",
+      "minecraft:beach": "2025-05-04 21:42:13 +0000",
+      "minecraft:sparse_jungle": "2025-05-04 21:45:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-04 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-04 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-05-04 21:42:54 +0000",
+      "wild_strawberry": "2025-05-04 21:42:54 +0000",
+      "corn": "2025-05-04 21:42:54 +0000",
+      "onion": "2025-05-04 21:42:54 +0000",
+      "wild_corn": "2025-05-04 21:42:54 +0000",
+      "wild_ribwort": "2025-05-04 21:42:54 +0000",
+      "strawberry": "2025-05-04 21:42:54 +0000",
+      "wild_nettle": "2025-05-04 21:42:54 +0000",
+      "barley": "2025-05-04 21:42:54 +0000",
+      "tomato": "2025-05-04 21:42:54 +0000",
+      "lettuce": "2025-05-04 21:42:54 +0000",
+      "wild_lettuce": "2025-05-04 21:42:54 +0000",
+      "wild_tomatoes": "2025-05-04 21:42:54 +0000",
+      "oat_seeds": "2025-05-04 21:42:54 +0000",
+      "tomato_seeds": "2025-05-04 21:42:54 +0000",
+      "barley_seeds": "2025-05-04 21:42:54 +0000",
+      "strawberry_seeds": "2025-05-04 21:42:54 +0000",
+      "lettuce_seeds": "2025-05-04 21:42:54 +0000",
+      "kernels": "2025-05-04 21:42:54 +0000",
+      "wild_barley": "2025-05-04 21:42:54 +0000",
+      "wild_onion": "2025-05-04 21:42:54 +0000",
+      "wild_oat": "2025-05-04 21:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-04 21:42:57 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
